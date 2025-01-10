@@ -1,6 +1,4 @@
-# Welcome to LinguaChat!
-
-This is the home of the LinguaChat project, including:
+# LinguaChat project
 
 - [Frontend Repository](https://github.com/LinguaChatApp/linguachat-frontend)
 - [Backend Repository](https://github.com/LinguaChatApp/linguachat-backend-go)
